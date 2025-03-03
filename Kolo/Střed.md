@@ -16,6 +16,10 @@ Abychom předešli vyluzování nepříjemných zvuků, drážky jak v klice, ta
 
 Našroubujeme krytku a za pomoci speciálního utahovacího klíče ji rukou dotáhneme.** Nepoužíváme žádné jiné nářadí.
 
-Na osu nasuneme levou kliku, samozřejmě do správné polohy vůči pravé klice, drážka na ose ostatně ani nedovoluje jiný způsob. Opět poklepeme pro lepší usazení (i zde stačí jen rukou, případně lehce dřevěnou či pryžovou paličkou), současně však přidržujeme pravou kliku, aby se nemohla vysunout z ložisek. **Tip:** Lehké poklepání na kliky je praktické, snáze se usadí do správné pozice a při dotahování není potřeba tolik síly. Jen pozor na poškození povrchu.
+![ ](./img/35-11.jpg)  |  ![ ](./img/35-12.jpg)  | 
+
+Na osu nasuneme levou kliku, samozřejmě do správné polohy vůči pravé klice, drážka na ose ostatně ani nedovoluje jiný způsob. Opět poklepeme pro lepší usazení (i zde stačí jen rukou, případně lehce dřevěnou či pryžovou paličkou), současně však přidržujeme pravou kliku, aby se nemohla vysunout z ložisek. Lehké poklepání na kliky je praktické, snáze se usadí do správné pozice a při dotahování není potřeba tolik síly. Jen pozor na poškození povrchu.
+
+![ ](./img/35-10.jpg)  |  ![ ](./img/35-13.jpg)  | 
 
 Imbusovým klíčem dotáhneme šrouby na levé klice, dotažení by mělo být stejnoměrné. Pozor: Šetřete silou, výrobce doporučuje maximálně 10–15 Nm, aby nedošlo ke stržení závitu a tím znehodnocení celé kliky. Je také dobré utahovat šrouby střídavě, ne jeden zcela a pak teprve druhý.
