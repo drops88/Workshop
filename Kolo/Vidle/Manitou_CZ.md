@@ -1,6 +1,6 @@
 # Servis vidlice Manitou
 
-![ ](./img/01_full.jpg) 
+![ ](./img/36-01.jpg) 
 
 1. Než začneme rozebírat nečistot zbavenou vidlici, je potřeba povolit předpětí pružiny, případně vyšroubovat zdvih na maximální hodnotu. Poté můžeme povolit šrouby na spodní straně, které spojují vnitřní nohy s vnějšími.
 
