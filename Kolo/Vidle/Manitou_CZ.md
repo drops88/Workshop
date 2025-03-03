@@ -46,15 +46,25 @@
 
 13. Pouze pro modely se stavitelným zdvihem: Hlavní pružina je u verze se stavitelným zdvihem na svých koncích záměrně tvarována tak, aby do ní zapadl díl ovládající zdvih. Při jeho změně se totiž otáčí celá pružina, protože šnekový mechanizmus měnící zdvih je na pístnici uložen na spodním konci vidlice.
 
+![ ](./img/36-14.jpg)   |   ![ ](./img/36-15.jpg) 
+
 14. Při zpětné montáži pružiny do vidlice nejprve nasadíme na její jeden konec matici s ovládacím mechanizmem a na druhý pístnici. Celý komplet pak z horní strany vložíme do vidlice a částečně zašroubujeme horní matici. Poté nasadíme na pístnici spodní matici s negativní pružinou a opatrně ji zašroubujeme a dotáhneme. Jelikož je tato matice plastová, je na místě opatrnost, aby se nestrhl závit.
+
+![ ](./img/36-16.jpg) 
 
 16. Poté již lze plně dotáhnout horní matici a znovu usadit ovládací kolečko a přitáhnout jej malým imbusovým šroubkem. Nakonec již jen nasadíme zpět pryžový doraz a dva plastové kroužky.
 
+![ ](./img/36-17.jpg) 
+
 17. „Pružinovou“ nohu již máme opět složenu, můžeme přejít k „tlumičové“. Vidlici otočíme vzhůru nohama, palcovým stranovým klíčem povolíme spodní matici a opatrně vytáhneme celou pístnici. Poté vidlici otočíme a vylijeme z ní tlumičový olej do předem připravené nádoby.
+
+![ ](./img/36-18.jpg)   |   ![ ](./img/36-19.jpg) 
 
 18. Dalším krokem je demontáž horního kompresního pístu. Nejprve povolíme malý imbusový šroub a sejmeme ovládací kolečko. Poté lze pomocí nástrčkového klíče vyšroubovat píst. Je ale třeba počítat s tím, že i z této strany vyteče trocha oleje, a vyndávat tak tento píst nad vhodnou nádobou.
 
 **Tip 2:** Kvalita oleje se posuzuje pohledem. Zajímá nás, je-li znečištěn nebo zda v něm není voda. Výskyt vody se pozná podle drobných kapiček tvořících bílou pěnu.
+
+![ ](./img/36-20.jpg) 
 
 20. Je-li již celá tlumičová patrona rozebrána, vyčistíme vnitřek nohy vidlice a otřeme jemným hadrem i písty.
 
