@@ -6,6 +6,8 @@
 
 ![ ](./img/36-02.jpg) 
 
+![ ](./img/36-01.jpg) 
+
 2. U nohy s pružinou stačí jen povolit šroub.
 
 ![ ](./img/36-03.jpg) 
