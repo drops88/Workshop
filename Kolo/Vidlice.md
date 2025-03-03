@@ -1,3 +1,3 @@
-[Servis vidlice Manitou](./Manitou_EN.htm)
+[Servis vidlice Manitou](./Manitou_CZ.htm)
 
-[Manitou_CZ](./Manitou_EN.htm)
+[How to Service Manitou MTB fork](./Manitou_EN.htm)
