@@ -1,8 +1,14 @@
 # Servis vidlice Manitou
 
+![ ](./img/36-01.jpg) 
+
 1. Než začneme rozebírat nečistot zbavenou vidlici, je potřeba povolit předpětí pružiny, případně vyšroubovat zdvih na maximální hodnotu. Poté můžeme povolit šrouby na spodní straně, které spojují vnitřní nohy s vnějšími.
 
+![ ](./img/36-02.jpg) 
+
 2. U nohy s pružinou stačí jen povolit šroub.
+
+![ ](./img/36-03.jpg) 
 
 3. U druhé nohy musíme nejprve sejmout kolečko ovládající útlum, které je připevněno pomocí malého imbusu. Pod ním je šroub s otvorem pro větší imbusový klíč. **POZOR!** Tento šroub je potřeba zašroubovat dovnitř vidlice, nikoliv naopak.
 
