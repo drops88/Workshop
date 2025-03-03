@@ -68,23 +68,43 @@
 
 20. Je-li již celá tlumičová patrona rozebrána, vyčistíme vnitřek nohy vidlice a otřeme jemným hadrem i písty.
 
+![ ](./img/36-21.jpg) 
+
 21. Je také vhodné zkontrolovat, zda některá část není viditelně poškozena, například zda nejsou zohýbány podložky na spodním pístu pro odskok.
+
+![ ](./img/36-22.jpg) 
 
 22. Nyní je již vše čisté a můžeme začít skládat zpět tlumičovou patronu. Nejprve lehce potřeme tlumičovým olejem kluzné plochy pístů, pak vložíme ze spodu do vidlice pístnici a dotáhneme matici.
 
+![ ](./img/36-23.jpg) 
+
 23. Finální plnění oleje provedeme, až bude vidlice kompletně složena. Nyní nalijeme pouze menší množství oleje a pomalými tahy pístnice docílíme, aby se olej dostal i pod píst.
+
+![ ](./img/36-24.jpg) 
 
 24. Nyní je již téměř vše připraveno pro postupné opětovné složení celé vidlice. Drobné pružinové O-kroužky, které jsme na začátku sundali z gufer, natáhneme na vnitřní nohy. Než nasadíme vnější nohy, je vhodné nanést trochu vazelíny na a pod stírací kroužky. Vidlice pak bude lépe držet olej, nepoteče. Poté již můžeme nasunout vnější nohy.
 
+![ ](./img/36-25.jpg) 
+
 25. POZOR! Je potřeba pamatovat, že do vnějších nohou přijde ještě olej, který bude vidlici zevnitř mazat. Aby ale protekl po celé délce nohy, musíme ho nalít ještě před tím, než zcela usadíme kluzáky na původní místo. Zasuneme proto vidlici pouze do polohy, kdy se dotknou vnitřní nohy spodních kluzných pouzder. Tento okamžik lze poměrně snadno rozpoznat.
+
+![ ](./img/36-26.jpg) 
 
 26. Správné množství oleje, které je třeba nalít dovnitř vnějších nohou, je třeba zjistit z manuálu, případně se obrátit na dovozce či autorizovaný servis.
 
+![ ](./img/36-27.jpg) 
+
 27. V další fázi usadíme kluzáky a zespodu je spojíme s vnitřními nohami. POZOR! Na straně tlumicí patrony se šroub utahuje zevnitř vidlice směrem ven. Na šroubu, který patří k pružinové noze, je drobný O-kroužek, stejný jako u tlumičové pístnice. Jeho stav ovlivňuje těsnost celku, proto bychom jej měli před montáží šroubu zkontrolovat, zda nenese stopy viditelného poškození. Zapomenout bychom neměli také na usazení pružinových kroužků, které jsme předem nasunuli na spodní nohy, na jejich původní místo do drážky v guferu.
+
+![ ](./img/36-28.jpg) 
 
 28. Jeden z posledních úkonů je naplnění tlumící patrony odpovídajícím množstvím oleje (měří se zde hladina oleje). Lze použít klasický metr, nebo hloubkoměr posuvného měřítka. Správnou výšku hladiny pro konkrétní model lze opět najít buď v technických specifikacích k vidlici, nebo se zeptat u dovozce. Další možností je odměřit si při rozebírání vidlice původní množství oleje.
 
+![ ](./img/36-29.jpg) 
+
 29. Než tlumící patronu z vrchu uzavřeme, je vhodné vidlici několikrát „propumpovat“, aby olej řádně protekl i pod spodní píst odskoku. Přitom je třeba zakrýt dlaní horní otvor na korunce, jinak by mohl olej stříkat ven.
+
+![ ](./img/36-30.jpg) 
 
 30. Nakonec ještě znovu překontrolujeme hladinu oleje. Poté již vidlici jen uzavřeme a usadíme zpět ovládací kolečko.
 
