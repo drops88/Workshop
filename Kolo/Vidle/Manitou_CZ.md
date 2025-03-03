@@ -36,13 +36,13 @@
 
 9. Dalším krokem je demontáž víčka ovládacího kolečka, následně pomocí nástrčkového klíče povolíme velkou matici (28 mm) na korunce.
 
-![ ](./img/36-10.jpg) 
+![ ](./img/36-10.jpg)   |   ![ ](./img/36-11.jpg)    |    ![ ](./img/36-12.jpg) 
 
 10. Dříve než vytáhneme pružinu, je potřeba sejmout gumový doraz z pístnice, a to včetně dvou plastových koleček, a spodní plastovou matici s negativní pružinou. Poté lze vytáhnout celou pružinu i s pístnicí. Může se stát, že se pístnice vyhákne z pružiny, pak jde samostatně vyndat spodem. Na pružině by měla být silnější vrstva vazelíny. Ta totiž vymezuje pružinu uvnitř vidlice tak, aby při jízdě neklepala o stěny. Otírat stávající vazelínu tak má význam, jen pokud je silně znečištěná. Očistu a namazání si ale rozhodně zaslouží závity uvnitř vidlice.
 
 **Tip 1:** Nejen u modelu Nixon je tato matice částečně zapuštěna v korunce. Nelze tak zde použít standardní nástrčkový klíč (oříšek), protože má příliš silnou stěnu. Je potřeba zvolit dílenský nástroj určený speciálně pro tento úkon, případně ten běžný zabrousit.
 
-![ ](./img/36-11.jpg) 
+![ ](./img/36-13.jpg) 
 
 13. Pouze pro modely se stavitelným zdvihem: Hlavní pružina je u verze se stavitelným zdvihem na svých koncích záměrně tvarována tak, aby do ní zapadl díl ovládající zdvih. Při jeho změně se totiž otáčí celá pružina, protože šnekový mechanizmus měnící zdvih je na pístnici uložen na spodním konci vidlice.
 
