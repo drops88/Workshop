@@ -1,8 +1,8 @@
 # Návody
 
 ## Jak seřídit brzdy
-[1](http://www.youtube.com/watch?v=1pb-dwOuCbg)
-[2](http://www.youtube.com/watch?v=RPOS9b1yIYE)
+[Jak seřídit brzdy](http://www.youtube.com/watch?v=1pb-dwOuCbg)
+[Jak seřídit brzdy](http://www.youtube.com/watch?v=RPOS9b1yIYE)
 
 ## Jak vycentrovat kolo
 [1](http://www.youtube.com/watch?v=Eg9ZfzLnTl0)
