@@ -12,21 +12,37 @@
 
 3. U druhé nohy musíme nejprve sejmout kolečko ovládající útlum, které je připevněno pomocí malého imbusu. Pod ním je šroub s otvorem pro větší imbusový klíč. **POZOR!** Tento šroub je potřeba zašroubovat dovnitř vidlice, nikoliv naopak.
 
+![ ](./img/36-04.jpg) 
+
 4. Poté můžeme stáhnout vnější nohy. Jelikož je v nich trochu oleje, je vhodné je sundávat opatrně ve vodorovné poloze, případně lze vidlici nepatrně naklonit patkami dolů. Přesto nepatrné množství oleje většinou stejně vyteče. Na to je dobré myslet a dát pod vidlici na stůl nebo na podlahu starý hadr.
+
+![ ](./img/36-05.jpg) 
 
 5. **POZOR!** Na spodní straně pístnice olejové patrony je na konci závitu poměrně drobný plastový O-kroužek. Ten je potřeba hlídat, aby se neztratil nebo nepoškodil. Občas totiž zůstane „viset“ v závitu ve vnější noze. Pokud se poničí, je nutné jej vyměnit, jinak nebude vidlice těsnit.
 
+![ ](./img/36-06.jpg) 
+
 6. Nyní je na řadě péče věnovaná vnějším nohám. Nejdříve sundáme a očistíme pružinové O-kroužky, které jsou na stíracích kroužcích (guferech).
+
+![ ](./img/36-07.jpg) 
 
 7. Poté důkladně vytřeme samotná gufera a vnitřek vidlice. K tomu nejlépe poslouží dlouhý šroubovák nebo tenká tyčka omotaná hadrem.
 
+![ ](./img/36-08.jpg) 
+
 8. V případě vnitřních nohou je nejlepší rozebrat, vyčistit a opět složit nejdříve jednu nohu a pak teprve druhou. Levou, uvnitř níž je pružina, bychom v podstatě ani rozebírat nemuseli, jelikož se do jejího nitra většinou příliš nečistot nedostane. Pokud ale chceme být důkladní (nebo chceme třeba odstranit klepání pružiny), není třeba obav, tento zákrok není příliš složitý. Nejprve povolíme plastovou matici na spodní straně. **POZOR!** Tato matice má „palcový“ rozměr, proto svou velikostí neodpovídá evropským metrickým klíčům. Buď je potřeba si pořídit klíč správné velikosti, nebo zpilovat standardní.
 
+![ ](./img/36-09.jpg) 
+
 9. Dalším krokem je demontáž víčka ovládacího kolečka, následně pomocí nástrčkového klíče povolíme velkou matici (28 mm) na korunce.
+
+![ ](./img/36-10.jpg) 
 
 10. Dříve než vytáhneme pružinu, je potřeba sejmout gumový doraz z pístnice, a to včetně dvou plastových koleček, a spodní plastovou matici s negativní pružinou. Poté lze vytáhnout celou pružinu i s pístnicí. Může se stát, že se pístnice vyhákne z pružiny, pak jde samostatně vyndat spodem. Na pružině by měla být silnější vrstva vazelíny. Ta totiž vymezuje pružinu uvnitř vidlice tak, aby při jízdě neklepala o stěny. Otírat stávající vazelínu tak má význam, jen pokud je silně znečištěná. Očistu a namazání si ale rozhodně zaslouží závity uvnitř vidlice.
 
 **Tip 1:** Nejen u modelu Nixon je tato matice částečně zapuštěna v korunce. Nelze tak zde použít standardní nástrčkový klíč (oříšek), protože má příliš silnou stěnu. Je potřeba zvolit dílenský nástroj určený speciálně pro tento úkon, případně ten běžný zabrousit.
+
+![ ](./img/36-11.jpg) 
 
 13. Pouze pro modely se stavitelným zdvihem: Hlavní pružina je u verze se stavitelným zdvihem na svých koncích záměrně tvarována tak, aby do ní zapadl díl ovládající zdvih. Při jeho změně se totiž otáčí celá pružina, protože šnekový mechanizmus měnící zdvih je na pístnici uložen na spodním konci vidlice.
 
