@@ -117,18 +117,34 @@ Kontrola vzduchové patrony u vidlic se systémem IT
 U vzduchových vidlic Manitou je doporučeno, aby uvnitř komory se stlačeným vzduchem bylo malé množství oleje, které zajišťuje hladký chod pístu. Postup jeho doplnění je ale u modelů se stavitelným zdvihem (IT – Infinite Travel) trochu složitější. Na korunce je zde totiž místo ventilu kloub s bovdenem vedoucím k ovládací páčce. Kvůli němu je potřeba pro povolení horní matice buď speciální nástrčkový klíč s výřezem (viz obrázek), nebo lze použít klíč stranový. U vidlic Minute je ale matice zapuštěna a bez originálního nářadí se tak nelze obejít.
 Nejdříve je nutné vypustit vzduch z obou vzduchových patron. Toho se nejsnáze dosáhne, je-li při vypouštění vzduchu zároveň stisknuta ovládací páčka (IT). Druhou možností je vypustit vzduch, stisknout ovládací páčku (vzduch se z negativní komory přepustí do pozitivní) a pak znovu vypustit vzduch. Tento proces je třeba opakovat, dokud ve vidlici již nebude žádný. Poté je vhodné stlačit vidlici na minimum, povolit horní matici a opatrně vysunout (pouze o dva až tři centimetry) horní víčko s celým systémem ovládajícím zdvih. Uvnitř vidlice, na pístu, by mělo být trochu oleje, který maže břity pístu. Pokud jsme již dolili olej, vše opět složíme. Zašroubujeme horní matici a systém znovu nafoukneme. Opět je třeba postupovat tak, aby se tlakový vzduch dostal do obou komor. Jako při vypouštění proto foukáme vidlici při stisknuté páčce, nebo postupujeme metodou „dofouknout – stisknout páčku – dofouknout“, dokud není ve vidlici požadovaný tlak.
 
+![ ](./img/36-31.jpg) 
+
 31. Nejprve sejmeme víčko ventilku a vypustíme všechen vzduch.
+
+![ ](./img/36-32.jpg) 
 
 32. Poté pomocí nástrčkového klíče demontujeme horní víčko s ventilkem a vidlici otočíme do svislé polohy. V jejím nitru je píst tvořící malou vaničku, která by měla být naplněna olejem.
 
+![ ](./img/36-33.jpg) 
+
 33. Pokud na ventilu není žádný olej nebo je ho tam málo, doplníme jej tak, aby jeho hladina byla přibližně v rovině s okrajem pístu.
+
+![ ](./img/36-34.jpg) 
 
 34. Nakonec namontujeme zpět horní víčko s ventilem (samozřejmě jsme před tím očistili závity) a vzduchovou patronu znovu nafoukneme na požadovaný tlak.
 
+![ ](./img/36-35.jpg) 
+
 35. Nejprve opatrně sejmeme prachovky a pružinové O-kroužky z gufer.
+
+![ ](./img/36-36.jpg) 
 
 36. Následně demontujeme šrouby na spodní straně vnějších nohou a kluzáky stáhneme. Nyní můžeme rovnou přistoupit k procesu čištění. Hadrem otřeme vnitřní nohy i pístnice, stejně tak vytřeme vnitřek nohou vnějších. Případná demontáž pružiny nebo olejové patrony je shodná jako u předchozího příkladu.
 
+![ ](./img/36-37.jpg) 
+
 37. Je-li již vidlice čistá, aplikujeme novou vazelínu hlavně do vnějších nohou do okolí kluzných pouzder.
+
+![ ](./img/36-38.jpg) 
 
 38. Nakonec nasuneme na vnitřní nohy kluzáky, namontujeme je zpět, dotáhneme šrouby na jejich spodní straně a usadíme na původní místo pružinové O-kroužky a prachovky.
