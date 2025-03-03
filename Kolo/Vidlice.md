@@ -26,17 +26,17 @@ Continuing to run a fork past its service interval will cause excessive wear whi
 - Semi bath oil (5W40 synthetic)
 - Prep M grease (synthetic)
 
-### MTB Fork Removal
+## MTB Fork Removal
 
 So you got all your parts together (seals, fluids, tools) and are ready to go. The first thing is to remove your front wheel and front brake from the fork. You will need a 6 or 5 mm Allen socket or wrench to remove the brake completely from your fork (you may also need to cut the tie wrap that holds the brake line.) Once the wheel and brake are removed you can concentrate on removing the top cap and stem. Once again, most bolts will require either a 4, 5, or 6mm socket or wrench.
 
 Be sure to hold the fork when you are ready to take the stem off your bike; otherwise, the fork may fall on the ground when the stem separates from the steering tube. Once the bar and stem are free, let the fork hang carefully. Now remove the fork and make sure to grab the lower bearing and seal and place them with the other bolts that you removed thus far. You should have a top cap and bolt, two bolts and washers which held the brake, spacers, and the lower bearing. Place all those components somewhere safe. To finish this segment off, place the fork in a stand (if you don't have a stand you'll have to hold it or have someone assist you at times).
 
-### MTB Fork Cleaning
+## MTB Fork Cleaning
 
 You are now at the stage where it becomes very important not to contaminate the inside of your fork. Sand particles inside your fork will ruin things very quickly, so it's time to thoroughly clean the outside of the fork. I use a bike specific cleaner (you can simply use dish soap and warm water solution if you like) to wash off all the sand and crud. Using an old toothbrush to agitate the dirt, I make sure that all the grime has been removed, especially around the seals. Once you have removed all the dirt and the fork is dry, it's time to start taking things apart.
 
-### MTB Fork Disassembly
+## MTB Fork Disassembly
 
 Just in case you missed the warning. **THE FIRST THING TO DO IS RELEASE THE AIR PRESSURE.** The following instructions apply specifically to Manitou forks like the Minute, Drake, and R7. If you have a different fork, consult your owner's manual.
 
@@ -54,7 +54,7 @@ Moving on to the RIGHT leg, it's time to grab a graduated cylinder that is total
 
 With the damper loose, make sure the fork has its legs facing down and remove the damper. Once the damper is out you'll need to measure the amount of oil inside and there are two ways to do it. I like to use a graduated cylinder to catch all the oil and record the amount of fluid. Alternatively you can use a measuring tool and look up table supplied in the owner's service guide to find the correct oil level. I prefer the first method for the first time doing the service (factory fill is correct – see example chart below). Once the damper is out, turn the fork over and collect all the oil (the photo above shows about 100ml of oil that came out of my fork). Cycle the damper shaft a few times to remove the remaining oil. Clean the piston assembly with a lint free cloth and put it aside.
 
-MTB Fork Reassembly
+## MTB Fork Reassembly
 
 Starting with the lower assembly, install the foam seals and add some semi bath oil (5W40 synthetic P/N 85-0022) to get the foam seals good and wet (I use a heavier duty synthetic lube from Red Line called Shock Proof Heavy). Next, install the seals using a large socket that fits over the entire seal to seat squarely in place. Once the seals are in you can add a bit of Semi bath oil in each leg to lube the DU bushings.
 Set the lower legs aside and start assembling the upper assembly, LEFT fork leg first. Lube up the compression spring with a bit of synthetic grease (prevents noise), then install it into the assembly, and add about 20 ml of semi bath oil. Torque the end cap to 80-100 in/lbs.
