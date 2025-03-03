@@ -32,7 +32,7 @@
 
 18. Dalším krokem je demontáž horního kompresního pístu. Nejprve povolíme malý imbusový šroub a sejmeme ovládací kolečko. Poté lze pomocí nástrčkového klíče vyšroubovat píst. Je ale třeba počítat s tím, že i z této strany vyteče trocha oleje, a vyndávat tak tento píst nad vhodnou nádobou.
 
-**TTip 2:** Kvalita oleje se posuzuje pohledem. Zajímá nás, je-li znečištěn nebo zda v něm není voda. Výskyt vody se pozná podle drobných kapiček tvořících bílou pěnu.
+**Tip 2:** Kvalita oleje se posuzuje pohledem. Zajímá nás, je-li znečištěn nebo zda v něm není voda. Výskyt vody se pozná podle drobných kapiček tvořících bílou pěnu.
 
 20. Je-li již celá tlumičová patrona rozebrána, vyčistíme vnitřek nohy vidlice a otřeme jemným hadrem i písty.
 
