@@ -18,19 +18,19 @@
 
 9. Dalším krokem je demontáž víčka ovládacího kolečka, následně pomocí nástrčkového klíče povolíme velkou matici (28 mm) na korunce.
 
-10. + 11. + 12. Dříve než vytáhneme pružinu, je potřeba sejmout gumový doraz z pístnice, a to včetně dvou plastových koleček, a spodní plastovou matici s negativní pružinou. Poté lze vytáhnout celou pružinu i s pístnicí. Může se stát, že se pístnice vyhákne z pružiny, pak jde samostatně vyndat spodem. Na pružině by měla být silnější vrstva vazelíny. Ta totiž vymezuje pružinu uvnitř vidlice tak, aby při jízdě neklepala o stěny. Otírat stávající vazelínu tak má význam, jen pokud je silně znečištěná. Očistu a namazání si ale rozhodně zaslouží závity uvnitř vidlice.
+10. Dříve než vytáhneme pružinu, je potřeba sejmout gumový doraz z pístnice, a to včetně dvou plastových koleček, a spodní plastovou matici s negativní pružinou. Poté lze vytáhnout celou pružinu i s pístnicí. Může se stát, že se pístnice vyhákne z pružiny, pak jde samostatně vyndat spodem. Na pružině by měla být silnější vrstva vazelíny. Ta totiž vymezuje pružinu uvnitř vidlice tak, aby při jízdě neklepala o stěny. Otírat stávající vazelínu tak má význam, jen pokud je silně znečištěná. Očistu a namazání si ale rozhodně zaslouží závity uvnitř vidlice.
 
 **Tip 1:** Nejen u modelu Nixon je tato matice částečně zapuštěna v korunce. Nelze tak zde použít standardní nástrčkový klíč (oříšek), protože má příliš silnou stěnu. Je potřeba zvolit dílenský nástroj určený speciálně pro tento úkon, případně ten běžný zabrousit.
 
 13. Pouze pro modely se stavitelným zdvihem: Hlavní pružina je u verze se stavitelným zdvihem na svých koncích záměrně tvarována tak, aby do ní zapadl díl ovládající zdvih. Při jeho změně se totiž otáčí celá pružina, protože šnekový mechanizmus měnící zdvih je na pístnici uložen na spodním konci vidlice.
 
-14. + 15. Při zpětné montáži pružiny do vidlice nejprve nasadíme na její jeden konec matici s ovládacím mechanizmem a na druhý pístnici. Celý komplet pak z horní strany vložíme do vidlice a částečně zašroubujeme horní matici. Poté nasadíme na pístnici spodní matici s negativní pružinou a opatrně ji zašroubujeme a dotáhneme. Jelikož je tato matice plastová, je na místě opatrnost, aby se nestrhl závit.
+14. Při zpětné montáži pružiny do vidlice nejprve nasadíme na její jeden konec matici s ovládacím mechanizmem a na druhý pístnici. Celý komplet pak z horní strany vložíme do vidlice a částečně zašroubujeme horní matici. Poté nasadíme na pístnici spodní matici s negativní pružinou a opatrně ji zašroubujeme a dotáhneme. Jelikož je tato matice plastová, je na místě opatrnost, aby se nestrhl závit.
 
 16. Poté již lze plně dotáhnout horní matici a znovu usadit ovládací kolečko a přitáhnout jej malým imbusovým šroubkem. Nakonec již jen nasadíme zpět pryžový doraz a dva plastové kroužky.
 
 17. „Pružinovou“ nohu již máme opět složenu, můžeme přejít k „tlumičové“. Vidlici otočíme vzhůru nohama, palcovým stranovým klíčem povolíme spodní matici a opatrně vytáhneme celou pístnici. Poté vidlici otočíme a vylijeme z ní tlumičový olej do předem připravené nádoby.
 
-18. + 19. Dalším krokem je demontáž horního kompresního pístu. Nejprve povolíme malý imbusový šroub a sejmeme ovládací kolečko. Poté lze pomocí nástrčkového klíče vyšroubovat píst. Je ale třeba počítat s tím, že i z této strany vyteče trocha oleje, a vyndávat tak tento píst nad vhodnou nádobou.
+18. Dalším krokem je demontáž horního kompresního pístu. Nejprve povolíme malý imbusový šroub a sejmeme ovládací kolečko. Poté lze pomocí nástrčkového klíče vyšroubovat píst. Je ale třeba počítat s tím, že i z této strany vyteče trocha oleje, a vyndávat tak tento píst nad vhodnou nádobou.
 
 **TTip 2:** Kvalita oleje se posuzuje pohledem. Zajímá nás, je-li znečištěn nebo zda v něm není voda. Výskyt vody se pozná podle drobných kapiček tvořících bílou pěnu.
 
