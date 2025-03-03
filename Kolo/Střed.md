@@ -1,6 +1,6 @@
 # Montáž středového složení a klik Shimano Hollowtech II
 
-Zdroj: < https://www.ivelo.cz/domaci-servis-kol/montaz-stredoveho-slozeni-klik/> 
+[Zdroj:](https://www.ivelo.cz/domaci-servis-kol/montaz-stredoveho-slozeni-klik)
 
 Do čistých a namazaných závitů v rámu namontujeme pravou misku s ložiskem** (má levý závit, dotahujeme ji tedy proti směru hodinových ručiček). Pro dosažení správné řetězové linie použijeme speciální podložky, které by měly být u klik přiloženy. Posléze našroubujeme levou misku (pravý závit) současně s vnitřní plastovou prachovkou. Pro pevné dotažení použijeme speciální klíč. Klíč by měl být součástí originálního balení klik, případně přiložen k novému kolu, na němž je tento model namontován. Při samostatné koupi jde o poměrně velkou investici (zhruba 500 Kč).
 
