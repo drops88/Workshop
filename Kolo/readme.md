@@ -1,1 +1,1 @@
-[Brzdy](./Brzdy.md)   |   [Kola](./Kola.md)   |   [Rám](./Rám.md)   |   [Řazení](./Řazení.md)   |   [Řídítka](./Řídítka.md)   |   [Středové složení](./Střed.md)   |   [Vidlice](./Vidlice.md)   |   [Ostatní](./Ostatní.md)
+[Brzdy](./Brzdy.md)   |   [Kola](./Kola.md)   |   [Rám](./Rám.md)   |   [Řazení](./Řazení.md)   |   [Řídítka](./Řídítka.md)   |   [Střed](./Střed.md)   |   [Vidlice](./Vidlice.md)   |   [Ostatní](./Ostatní.md)
