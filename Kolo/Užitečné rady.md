@@ -1,16 +1,4 @@
-## 4. Údržba a výměna řetězu
-
-Řetěz je nejnamáhanější částí kola, a proto je mu potřeba věnovat dostatečnou péči. Důležitá je také jeho kontrola a včasná výměna. Pokud řetěz nevyměníme včas, zvyšujeme riziko nadměrného opotřebení ozubených kol pastorku a věnců převodníku, které pak musíme vyměnit za nové, což je značná investice oproti nákupu nového řetězu, který stojí pouze kolem 400 Kč. Někdo uvádí doporučení vyměnit řetěz asi po 3000 km. Já raději spoléhám na proměření řetězu pomocí speciálního kalibru, který lze zakoupit v každé cykloprodejně. Měření s ním je snadné a jednoduše poznáme, kdy je řetěz protažený nad přípustnou mez.
-
-Co se týče mazání, raději volím řidší oleje jako je GT 85, které nepřitahují mnoho nečistot, i když se mohou v dešti rychleji vyplavit. Pokud je na řetězu nános špíny, je nejprve potřeba ji před mazáním odstranit. Dobrým pomocníkem je tzv. pračka řetězu, která se naplní rozpouštědlem jako je technický benzín, pak se nasadí na řetěz a zpětným otáčením pedálů dojde k očištění řetězu mezi otáčejícími se kartáčky. Nemáme-li pračku řetězu, použijeme obyčejný hadr a můžeme ještě řetěz postříkat čistícím prostředkem na kola, například já používám Cyklo Star.
-
-Jednou za čas je dobré trochu pozornosti věnovat i pastorkům a převodníkům, jelikož ty se časem zanáší špínou slepenou s olejem ze řetězu. Nejlepší je použít starý hadr, který zasuneme do mezer mezi jednotlivá ozubená kola. Dá se také sehnat čistič pastorku, např. od firmy Vella. Pro lepší očištění také někdy používám starý zubní kartáček.
-
-Velmi často jsem se setkal s tím, že mnoho lidí neví, jak a kde řetěz správně namazat. Správně namazaný řetěz musí být na povrchu zcela čistý a olej musí zůstat uvnitř řetězu, kde jsou jeho funkční plochy. Proto jej po namazání nezapomeňte zvenku otřít. Nebude se vám pak na něj lepit prach a vy zůstanete čistí.
-
-K výměně řetězu je u dnešních kol nezbytné použít nýtovač řetězu. Při rozpojování je důležité nýt úplně nevytlačit ze spojky, protože už ho není možné dát zpátky. Po spojení řetězu je zase dobré ho rozhýbat v místě spoje a již ho v tomto místě nikdy znovu nerozpojovat, neboť hrozí jeho samovolné rozpojení. Pokud máte na kole řetěz Shimano IG nebo HG, tak ty se spojují speciálními nýty, které mají zúžený začátek, což ulehčuje zavedení nýtu do spojky a poté se odlomí. Nýtovač se používá stejný jako v případě jiných řetězů.
-
-## 5. Co si vzít za vybavení pro jednodenní výlet na kole
+## Co si vzít za vybavení pro jednodenní výlet na kole
 
 Je samozřejmě něco jiného, když se jedná o vyjížďku po nedělním obědě, nebo jestli se chystáme na 100 km celodenní výlet. Já se držím jedné z rad, mít vždy u sebe náhradní duši. Je sice pravda, že stačí mít soupravu na lepení, ale podmínkou pro zalepení je nalézt onu díru a to může být docela problém. Doma to uděláme tak, že duši dáme pod vodu a sledujeme bublinky, ale to v přírodě nemusí být vždy možné, i když rybníků a potoků je všude docela dost. Proto raději vozím oboje, duše se celkem pohodlně vejde do brašničky umístěné v rámu kola. Další důležitou věcí jsou pak montpáky, bez kterých půjde plášť sundat jen velmi těžko, a nezapomeneme samozřejmě ani na hustilku. Pro delší výlet je nezbytností mít nějaké to nářadí, ale lepší je ho vzít sebou při každé vyjížďce. Neměli by nám chybět imbusové klíče a šroubovák, ty je nejlepší koupit jako kapesní multifunkční nářadí, které je uspořádáno jako skládací nože a v sadě jsou základní imbusové klíče a křížový i obyčejný šroubovák. Dále pak vozím maticový klíč, který má na sobě různé šestihranné otvory hlavně pro větší matice a velmi dobré je mít normální oboustranný klíč na šrouby a matice velikosti 8/10. Pomocí něho se dají především dotahovat různé uvolněné malé matice, které například najdete na brzdách.
 
@@ -18,18 +6,13 @@ Pokud se jedná o jídlo, tak nejčastěji sebou vozím tzv. traťovky jako jsou
 
 Pokud se jedná o oblečení, tak nejlepší je jezdit v cyklistickém dresu a krátkých kalhotách, které jsou vyrobeny ze speciálních materiálů, které jsou dobře prodyšné a rychle schnou, neboť nesají vodu jako třeba bavlněné tričko. Poslední nezbytnou věcí, kterou vždy vozím, je kvalitní zámek typu spirála, kterým vždy dobře zajistím kolo, jestliže se od něj byť jen na chvíli musím vzdálit. Problémem vždy bývá najít nějaké vhodné místo, ke kterému své kolo připoutám, neboť se není dobré spoléhat pouze na uzamknutí jednoho z kol, protože kolo, které neodjede, je stejně dobře možné odnést na rameni.
 
-
-## 6. Jak namazat bowdeny řazení
-
-Po delším čase se nám může stát, že nejde řadit tak hladce jako dříve. Je to většinou způsobeno tím, že se lanka a bowdeny zanesou nečistotami. Bowdeny je možné jednoduchým způsobem uvolnit a posunout po lanku bez povolování upevňovacích šroubů na přehazovačce nebo přesmykači. Pro uvolnění bowdenu u přehazovačky si zařadíme tak, aby se řetěz nacházel na největším pastorku. Tím se lanko napne a my bez otáčení zadního kola přeřadíme páčkou nebo otočnou rukojetí na nejmenší pastorek. Poté je už snadné bowden vyndat z úchytů a dané místo lanka namazat olejem na jízdní kola. Po namazání bowden vsuneme zpět do úchytů a páčkou přeřadíme zpět na největší pastorek. Podobně postupujeme při mazání lanka pod bowdenem u přesmykače, a to tak, že zařadíme na největší převodník a opět bez otáčení kola páčku (rukojeť) přesuneme do pozice pro zařazení nejmenšího převodníku.
-
-## 7. Správné huštění pneumatik
+## Správné huštění pneumatik
 
 Nahuštěním pneumatik na správný tlak lze dosáhnout jak zlepšení jízdních vlastností kola, tak zvýšení životnosti pneumatik. Je zcela zřejmé, že na pneumatikách huštěných na vysoký tlak se zmenší jejich valivý odpor a můžeme tedy jet rychleji s menší námahou, ale schopnost tlumit případné nerovnosti je malá. Naopak u podhuštěné pneumatiky je možné dosáhnout dobrého tlumení nerovností a zlepšení stability jízdy. Jaké zvolit nahuštění závisí především na povrchu terénu a volba nižšího tlaku je vhodná v případě blátivého, kamenitého nebo písčitého terénu. Je ale dobré mít na paměti, že podhuštěná pneumatika je více náchylná k proražení například ostrým kamenem.
 
 Já osobně většinou volím při jízdě po lesních a polních cestách tlaky kolem 200 až 250 kPa, přičemž přední kolo hustím na tlak asi o 20 kPa nižší než zadní z důvodu lepšího tlumení při přejezdu nerovností, čímž napomůžu ke snížení únavy rukou od otřesů. Na kvalitním povrchu nebo na silnici je možné hustit na tlaky 400 až 500 kPa. Řídit bychom se také měli údajem o doporučených tlacích, který je uveden na každé pneumatice, na boku pláště. Jde sice o velmi hrubý údaj pohybující se kolem střední hodnoty tlaku, například min. 300 až max. 450 kPa. Samotné opotřebení pneumatik a tím i jejich životnost ovlivní výše tlaku tím, že u podhuštěné se nejdříve opotřebí okraje a u přehuštěné střed pláště. Hodnotu tlaku v pneumatikách nejlépe změříme tlakoměrem určeným pro pneumatiky automobilů, samozřejmě pouze v případě, že máme duše osazeny autoventily. Jelikož se především na výrobcích ze zahraničí často setkáme s různými jednotkami tlaku vzduchu v pneumatikách, uvádím zde přepočet mezi těmito jednotkami: 100 kPa = 0,1 MPa = 1 at = 1 bar = 14,22 psi.
 
-## 8. Jaký zvolit typ dezénu plášťů
+## Jaký zvolit typ dezénu plášťů
 
 Pro horská kola je dnes vyráběno mnoho různých druhů plášťů, které se liší svým dezénem. Každý z dezénů je vhodný pro specifický druh povrchu a liší se jak umístěním vzorku, tak tvrdostí pryžové směsi. Existují tři základní skupiny: pláště určené buďto do těžkých terénů, na silnici, nebo univerzální. Pláště s nejhrubším vzorkem s řídce rozmístěnými výstupky se používají pro jízdu v těžkém terénu s kluzkým a bahnitým povrchem. Pro pevnější terén se volí pláště s hustším a drobnějším dezénem, ale je nutné pamatovat na jejich horší samočistící schopnosti. Pojedete-li po silnici, bude vás doprovázet charakteristický "hukot" kol. Opakem jsou pláště zcela hladké, tzv. typ slick. Ty se nejlépe uplatní na silnici pro svůj malý jízdní odpor, jejich nevýhodou je malá přilnavost k vozovce v případě deště a mokra.
 
@@ -39,7 +22,7 @@ Pro úplnost zde uvedu význam těchto dvou údajů:
 - **Metrické označení** např. 54 - 559: 54 = jmenovitá šířka pláště v mm; 559 = jmenovitý průměr ráfku = vnitřní průměr pláště v mm; vnější jmenovitý průměr pneumatiky D = 559 + 2 * 54 = 667 mm
 - **Palcové označení** např. 26 x 2: 26 = jmenovitý průměr pneumatiky v palcích; 2 = jmenovitá šířka pneumatiky v palcích
 
-## 9. Jak zabezpečit kolo proti krádeži
+## Jak zabezpečit kolo proti krádeži
 
 Mohou nastat dvě rozdílné situace, kdy chceme, aby naše kolo bylo uchráněno před zloději. První je zabezpečení kola při jeho ponechání ve sklepě, kočárkárně či balkoně. Druhá se týká zabezpečení kola proti odcizení při vyjížďce ve městě či v terénu. V prvé situaci je důležité si uvědomit, že i sebelepší zámek neodolá zlodějům více než pár desítek minut a jsou známy případy, kdy zloději ukradli kolo z opancéřovaného sklepa, či skrz probouranou zeď ze sousedního domu. Nejlepší je mít kolo uloženo v bytě, jako to praktikuji já. Dnes je možné si zakoupit různé věšáky na kola na zeď a kolo je tak vždy "na očích". V případě uskladnění ve sklepě je nejlepší mít minimálně jeden zámek na vlastním kole plus zámek na dveřích sklepa, což vyžadují i některé pojišťovny.
 
@@ -52,10 +35,16 @@ Základní doporučení před opuštěním kola jsou:
 4. Odmontovat všechno, co se dá lehce ukrást (cyklocomputer, láhev, brašnu, blikačku).
 5. Kolo zamykat k nepohyblivým předmětům jako jsou sloupy veřejného osvětlení, mřížový u obchodů apod.
 
-## 10. Nastavení správné polohy sedla a řidítek
+## Nastavení správné polohy sedla a řidítek
 
 Sedlo by mělo být tak vysoko, aby cyklista dosáhl chodidlem na pedál, s nohou nepatrně pokrčenou v koleně a bez vychýlení v bocích, přitom je pedál v nejnižší poloze. Mírně pokrčená noha dokáže provést více svalové práce než noha příliš napjatá. Co se týče nastavení sklonu sedla, pak zde je možné mít jak mírný sklon nahoru, tak dolů směrem k řídítkám. Nejčastější je poloha vodorovná bez sklonu. Sedlo lehce skloněné dolů zmírní přenos otřesů z rámu kola na tělo a sedlo nakloněné naopak vzhůru je odlehčením pro paže.
 
 Co se týče vzdálenosti sedla od řídítek, tak se volí podle pravidla, že svislá osa spuštěná z kolena protne osu pedálu s klikou v přední poloze. Posunutí sedla ovlivní hlavně šlapání. Při posunutí sedla dozadu se usnadní šlapání s menším silovým účinkem. Při posunutí sedla dopředu je šlapání namáhavější, ale síla na pedály větší, proto je posun sedla dopředu vhodný pro táhlá strmá stoupání, která vyžadují šlapat velkou silou.
 
 Nastavení řidítek je možné dle výšky a vyložení představce. Výšku řídítek volíme tak, aby horní plocha řídítek byla o 2 až 5 cm níže než je horní plocha sedla ve vodorovné poloze. Nižší výška řídítek se používá pro sportovní účely, řídítka výše položená jsou výhodná pro svůj lepší jízdní komfort. O vzdálenosti řídítek od sedla lze říci, že je daná vyložením představce a určující je délka trupu a paží. Měla by odpovídat sklonu trupu při mírně pokrčených pažích k vodorovné rovině asi 50°. Při větším sklonu dopředu je pozice pro cyklistu méně pohodlná, má i své přednosti v lepší práci nohou a aerodynamičtější poloze, což je pro horskou cyklistiku nepodstatné. Minimální šířka řídítek se volí tak, aby paže nesvíraly hrudník. Širšími řídítky se lépe udržuje směr jízdy v nízkých rychlostech a jsou pohodlnější. Užší řídítka zase lépe reagují na změnu směru jízdy.
+
+## Jak vyčistit kolo
+[Jak vyčistit kolo](http://www.youtube.com/watch?v=wadJMR4PvMA)
+
+[Jak vyčistit kolo](http://www.youtube.com/watch?v=kI4aV5R8dqw)
+
