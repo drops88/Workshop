@@ -1,3 +1,7 @@
+# Tabulka velikostí rámu
+
+![ ](../img/bike_frame_size.png) 
+
 # Nastavení správné polohy sedla a řidítek
 
 Sedlo by mělo být tak vysoko, aby cyklista dosáhl chodidlem na pedál, s nohou nepatrně pokrčenou v koleně a bez vychýlení v bocích, přitom je pedál v nejnižší poloze. Mírně pokrčená noha dokáže provést více svalové práce než noha příliš napjatá. Co se týče nastavení sklonu sedla, pak zde je možné mít jak mírný sklon nahoru, tak dolů směrem k řídítkám. Nejčastější je poloha vodorovná bez sklonu. Sedlo lehce skloněné dolů zmírní přenos otřesů z rámu kola na tělo a sedlo nakloněné naopak vzhůru je odlehčením pro paže.
