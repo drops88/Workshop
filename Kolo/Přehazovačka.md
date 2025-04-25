@@ -1,11 +1,10 @@
-# Jak seřídit přehazovačku
+# Návod na seřízení přehazovačky
 
 [How to Adjust Bicycle Gears](http://www.youtube.com/watch?v=SjJfKO_tAo0)
 
 [How to Properly Adjust Bicycle Shifting](http://www.youtube.com/watch?v=ZTprZHCwoNc)
 
 
-# Návod na seřízení přehazovačky
 Příprava: Kolo upevním do stojanu tak, aby zadní kolo viselo ve vzduchu. Vepředu přehodím na největší kolo, vzadu přehodím na nejmenší kolečko. Zkontroluju polohu řadicích pák. Utáhnu lanko pomocí šroubu u přehazovačky na maximum. Pokud i tak je lanko volné, povolím držák lanka a dotáhnu lanko ručně. Utáhnu šroub. Zamáčknu přehazovačku dovnitř a šlapu. Řetěz přeskočí na velká kolečka. Ideální je dostat ho až na největší kolečko ale není to nutné. Zabrzdím. Stále držím přehazovačku vmáčknutou. Lanko by mělo být dostatečně volné tak aby šlo vyháknout z držáku. Pokud tomu tak není, něco je špatně. Vyháknu bowden a povolím tah v lanku. Povolení lanka je nutné pro správné seřízení dorazů.
 
 ## Napnutí lanka
