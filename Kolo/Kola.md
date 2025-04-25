@@ -5,7 +5,7 @@
 
 [How to True a Bicycle Wheel](http://www.youtube.com/watch?v=a25vC5zsf6A)
 
-[Jak vycentrovat kolo](http://www.youtube.com/watch?v=aPIeiFzPcrI)
+[How To Build Your Own Truing Stand](http://www.youtube.com/watch?v=aPIeiFzPcrI)
 
 [Jak vycentrovat kolo](http://www.youtube.com/watch?v=TcoSgl3qiHU)
 
