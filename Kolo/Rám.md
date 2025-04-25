@@ -1,6 +1,6 @@
 # Tabulka velikostí rámu
 
-![ ](/img/bike_frame_size.png) 
+![ ](./img/bike_frame_size.png) 
 
 # Nastavení správné polohy sedla a řidítek
 
