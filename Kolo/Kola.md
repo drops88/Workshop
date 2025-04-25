@@ -1,9 +1,12 @@
 # Kola
 
 ## Jak vycentrovat kolo
-[Jak vycentrovat kolo](http://www.youtube.com/watch?v=Eg9ZfzLnTl0)
+[Truing a Bent Bicycle Wheel](http://www.youtube.com/watch?v=Eg9ZfzLnTl0)
+
 [Jak vycentrovat kolo](http://www.youtube.com/watch?v=a25vC5zsf6A)
+
 [Jak vycentrovat kolo](http://www.youtube.com/watch?v=aPIeiFzPcrI)
+
 [Jak vycentrovat kolo](http://www.youtube.com/watch?v=TcoSgl3qiHU)
 
 ## Poznámky:
