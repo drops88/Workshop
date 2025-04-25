@@ -4,7 +4,7 @@
 
 [Suntour XCM Fork Service - Honza](https://www.youtube.com/watch?v=eW2819rP9Tw&t=40s)
 
-## Manitou R7
+## Manitou
 
 [Servis vidlice Manitou](./Manitou_CZ.md)
 
