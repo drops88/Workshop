@@ -1,6 +1,6 @@
 # Kola
 
-## Jak vycentrovat kolo
+## Centrování - návody:
 [Truing a Bicycle Wheel](http://www.youtube.com/watch?v=Eg9ZfzLnTl0)
 
 [How to True a Bicycle Wheel](http://www.youtube.com/watch?v=a25vC5zsf6A)
