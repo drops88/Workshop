@@ -1,14 +1,4 @@
-# Jak seřídit přehazovačku
-
-[Jak seřídit přehazovačku](http://www.youtube.com/watch?v=SjJfKO_tAo0)
-
-[Jak seřídit přehazovačku](http://www.youtube.com/watch?v=ZTprZHCwoNc)
-
-## Jak namazat bowdeny řazení
-
-Po delším čase se nám může stát, že nejde řadit tak hladce jako dříve. Je to většinou způsobeno tím, že se lanka a bowdeny zanesou nečistotami. Bowdeny je možné jednoduchým způsobem uvolnit a posunout po lanku bez povolování upevňovacích šroubů na přehazovačce nebo přesmykači. Pro uvolnění bowdenu u přehazovačky si zařadíme tak, aby se řetěz nacházel na největším pastorku. Tím se lanko napne a my bez otáčení zadního kola přeřadíme páčkou nebo otočnou rukojetí na nejmenší pastorek. Poté je už snadné bowden vyndat z úchytů a dané místo lanka namazat olejem na jízdní kola. Po namazání bowden vsuneme zpět do úchytů a páčkou přeřadíme zpět na největší pastorek. Podobně postupujeme při mazání lanka pod bowdenem u přesmykače, a to tak, že zařadíme na největší převodník a opět bez otáčení kola páčku (rukojeť) přesuneme do pozice pro zařazení nejmenšího převodníku.
-
-## Údržba a výměna řetězu
+# Údržba a výměna řetězu
 
 Řetěz je nejnamáhanější částí kola, a proto je mu potřeba věnovat dostatečnou péči. Důležitá je také jeho kontrola a včasná výměna. Pokud řetěz nevyměníme včas, zvyšujeme riziko nadměrného opotřebení ozubených kol pastorku a věnců převodníku, které pak musíme vyměnit za nové, což je značná investice oproti nákupu nového řetězu, který stojí pouze kolem 400 Kč. Někdo uvádí doporučení vyměnit řetěz asi po 3000 km. Já raději spoléhám na proměření řetězu pomocí speciálního kalibru, který lze zakoupit v každé cykloprodejně. Měření s ním je snadné a jednoduše poznáme, kdy je řetěz protažený nad přípustnou mez.
 
