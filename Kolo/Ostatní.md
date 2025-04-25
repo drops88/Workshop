@@ -1,7 +1,7 @@
 
 ## Jak vyčistit kolo
 
-[Jak vyčistit kolo](http://www.youtube.com/watch?v=wadJMR4PvMA)
+[How to clean a bicycle](http://www.youtube.com/watch?v=wadJMR4PvMA)
 
 [Jak vyčistit kolo](http://www.youtube.com/watch?v=kI4aV5R8dqw)
 
